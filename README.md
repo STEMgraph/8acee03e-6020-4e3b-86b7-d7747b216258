@@ -1,6 +1,7 @@
 <!---
 {
   "id": "8acee03e-6020-4e3b-86b7-d7747b216258",
+  "teaches": "Processing Arguments from stdin with `xargs`",
   "depends_on": ["b668e389-98db-4777-bc4c-190de535836c"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-06-03",
